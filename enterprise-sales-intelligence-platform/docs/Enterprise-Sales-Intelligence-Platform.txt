@@ -1,0 +1,18 @@
+Enterprise-Sales-Intelligence-Platform/
+│
+├── database/
+│   ├── oltp/
+│   ├── staging/
+│   └── datawarehouse/
+│
+├── etl/
+│   ├── raw/
+│   ├── processing/
+│   └── loading/
+│
+├── ssas/
+├── ssrs/
+├── ssdt/
+│
+├── docs/
+└── README.md
